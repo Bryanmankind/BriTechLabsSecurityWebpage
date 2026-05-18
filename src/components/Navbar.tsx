@@ -33,8 +33,8 @@ export default function Navbar() {
                 hasDropdown 
                 dropdownItems={[
                   { label: 'Smart Contract Audit', icon: FileCheck, to: '/audit' },
-                  { label: 'Smart Contract Dev', icon: Code2, to: '/dev' },
-                  { label: 'DeFi Architecture', icon: Cpu, to: '/defi' },
+                  { label: 'Smart Contract Dev', icon: Code2, to: '/contractDev' },
+                  { label: 'DeFi Architecture', icon: Cpu, to: '/architecture' },
                 ]}
               />
               <NavLink to="/" label="Resources" hasDropdown 
