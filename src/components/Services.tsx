@@ -15,7 +15,7 @@ const SERVICES = [
     color: 'blue'
   },
   {
-    title: 'Skynet Monitoring',
+    title: 'On-chain security Monitoring',
     desc: '24/7 real-time on-chain security monitoring with instant incident alerts.',
     icon: Activity,
     color: 'accent'
